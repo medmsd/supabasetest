@@ -1,0 +1,1 @@
+export 'package:supabasetest/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
